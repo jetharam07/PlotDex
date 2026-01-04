@@ -3,11 +3,16 @@
 
 ## Installation & Setup
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/jetharam07/PlotDex.git
-cd PlotDex
 
+### 1. Clone the repository
+
+```shell
+git clone https://github.com/jetharam07/PlotDex.git
+```
+
+```shell
+cd PlotDex
+```
 
 =======
 ## Foundry
