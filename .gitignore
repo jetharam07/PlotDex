@@ -1,0 +1,17 @@
+# Dotenv
+.env
+.env.save
+
+# Foundry
+out/
+cache/
+broadcast/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+# Docs
+docs/
