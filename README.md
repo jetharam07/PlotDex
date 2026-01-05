@@ -65,7 +65,7 @@ $ anvil
 ### Deploy
 
 ```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
+$ forge script script/PlotDex.s.sol:PlotDexScript --rpc-url <your_rpc_url> --private-key <your_private_key>
 ```
 
 ### Cast
