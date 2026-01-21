@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # PlotDex
 
+Token Contract Address(search in metamask testnet):   0x62ABe3137038263F81693F4AB566b09FA6dAb10A
+
 ## Installation & Setup
 
 
